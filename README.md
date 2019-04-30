@@ -2,5 +2,9 @@
 
 ### Themes
 
-* [Material Discord](https://github.com/CapnKitten/Material-Discord)
-* [Spotify Discord](https://github.com/CapnKitten/Spotify-Discord)
+* [Material Discord](./Material-Discord)
+* [Spotify Discord](./Spotify-Discord)
+
+
+
+based on a repo by [CapnKitten](https://github.com/CapnKitten/BetterDiscord)
